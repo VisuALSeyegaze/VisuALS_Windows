@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 title: VisuALS for Windows
+logo: /assets/visuals-logo.png
+site_favicon: visuals-icon.ico
