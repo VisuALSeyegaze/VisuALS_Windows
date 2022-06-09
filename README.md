@@ -130,22 +130,6 @@ To begin using the VisuALS software, follow these steps:
  - In file explorer type the path - C:\Users\VisuALS\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup - into the search bar.
  - Paste VisuALS application into the folder.
 
-## Built With
-
-**Update this with what is true**
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-**Update this with what is true**
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
 The original VisuALS software evolved out of student projects by Electrical and Computer Engineering students at Oklahoma Christian University. These original authors include:
