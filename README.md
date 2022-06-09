@@ -111,24 +111,9 @@ To begin using the VisuALS software, follow these steps:
 
 ### Install VisuALS Software
 
- - **(I'm hoping this can be streamlined)**
- - Download the software here.
+ - Download the software [here]([https://gaming.tobii.com/product/eye-tracker-5/](https://github.com/Icosahunter/VisuALS_Windows/tree/master/installers))
  - Double click the package to begin the install process.
- - Open the VisuALS PROD-14 folder in the Install folder and click the “Application Manifest” file
- - Next, test out the VisuALS application by typing in a couple words and converting them to speech.
- - Be sure that the eye delay is set to default
- - Make EyeBall visible
- - Drag the VisuALS icon from the Start menu up to the top center of the desktop
- - Go to file explorer
- - Type in C:\users\VisuALS\Documents\VisuALS
- - Place the starterfiles’ contents from the install folder (“File names”,”File1”, “Lord’s Prayer””, and “Our prayer”) into the VisuALS folder
- - Next type C:\users\VisuALS\Documents\VisuALS\VisuALS Components
- - Move the files from the “Phrases” folder under the “install” folder into this folder. (Copy in “install” folder and Paste to “VisuALS Components” folder)
- - Select “Replace...” when prompted.
- - Check TTS Phrases, NP Files, and WB Bookmarks to confirm proper starting setup. If not, Exit the VisuALS App and restart it. If setup is still not correct, repeat steps a. And b.
- - Right click VisuALS Application icon on the desktop and select Copy
- - In file explorer type the path - C:\Users\VisuALS\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup - into the search bar.
- - Paste VisuALS application into the folder.
+ - Follow the instructions.
 
 ## Authors
 
