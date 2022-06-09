@@ -11,7 +11,7 @@ This is specifically the VisuALS package for patients (as opposed to the version
 
 ## Getting Started
 
-These instructions will get you a copy of the VisuALS software up and running on your local machine. See the CONTRIBUTING document for information on installing the project for development and testing.
+These instructions will get you a copy of the VisuALS software up and running on your local machine. 
 
 ### Prerequisites
 
