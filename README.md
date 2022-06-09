@@ -111,7 +111,7 @@ To begin using the VisuALS software, follow these steps:
 
 ### Install VisuALS Software
 
- - Download the software [here]([https://gaming.tobii.com/product/eye-tracker-5/](https://github.com/Icosahunter/VisuALS_Windows/tree/master/installers))
+ - Download the software [here]([https://github.com/Icosahunter/VisuALS_Windows/raw/master/installers/VisuALS_Windows_V2.0_Installer.exe])
  - Double click the package to begin the install process.
  - Follow the instructions.
 
