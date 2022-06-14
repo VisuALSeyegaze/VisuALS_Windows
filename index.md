@@ -8,6 +8,8 @@ When your loved one is unable to communicate because of conditions such as ALS, 
 
 We understand what it’s like taking ten to thirty minutes to figure out what your loved one is trying to say. Also, it’s totally normal to worry about their mental health. And you’re not alone. 
 
+![Alt text](https://icosahunter.github.io/VisuALS_Windows/assets/images/VisuALSdesktop.png "VisuALS")
+
 ### This is what you can do with a VisuALS System:
 
 VisuALS is an assistive communication device that helps those who have lost their voice to communicate again.
