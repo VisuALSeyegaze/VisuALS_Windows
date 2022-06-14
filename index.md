@@ -104,5 +104,6 @@ Click [here](https://github.com/Icosahunter/VisuALS_Windows/raw/master/installer
 
  - Download the software [here](https://github.com/Icosahunter/VisuALS_Windows/raw/master/installers/VisuALS_Windows_V2.0_Installer.exe)
  - Double click the package to begin the install process.
+ - You may see a warning that the software may be unsafe. Click the "More Info" link and then click the "Run Anyway" button to install the software.
  - Follow the instructions.
 
