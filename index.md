@@ -107,3 +107,13 @@ Click [here](https://github.com/Icosahunter/VisuALS_Windows/raw/master/installer
  - You may see a warning that the software may be unsafe. Click the "More Info" link and then click the "Run Anyway" button to install the software.
  - Follow the instructions.
 
+### Set VisuALS to Auto-Launch (recommended) 
+
+- Select the Start  button and scroll to find the VisuALS app.
+
+- Right-click the VisuALS app, select More, and then select Open file location. This opens the location where the shortcut to the VisuALS app is saved. 
+
+- With the file location open, press the Windows logo key  + R, type shell:startup, then select OK. This opens the Startup folder.
+
+- Copy and paste the shortcut to the app from the file location to the Startup folder.
+
